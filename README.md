@@ -29,13 +29,7 @@
 
 ## 🚀 Featured Project — Dalouna Restaurant Website
 
-### 🍽️ **Dalouna – Modern Restaurant Website**  
-موقع مطعم متكامل بتصميم احترافي يعرض قائمة الطعام، الأسعار، التواصل، ساعات العمل، وصور الوجبات.
-
-✔ مبني باستخدام: **HTML / CSS / JavaScript**  
-✔ واجهة منظمة وسهلة الاستخدام  
-✔ Sections واضحة: Home, Menu, About, Hours, Contact  
-✔ تجربة مستخدم ممتازة ومناسبة لعرضها كبورتفوليو
+### 🍽️ **Dalouna – Modern Restaurant Website**
 
 👉 **Live Demo:**  
 https://mohammadjamous.github.io/dalouna-12442158/  
